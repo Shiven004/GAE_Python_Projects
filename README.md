@@ -1,3 +1,3 @@
-# python_sample projects
+# GAE python_sample projects
 
-python projects
+Google App Engine Python project that consumes NBD and DB Model.
